@@ -19,7 +19,7 @@ runs:
     - name: Checkout Test_Tool Repository
       uses: actions/checkout@v3
       with:
-        repository: rahul-avx/assessment-tool
+        repository: AppViewX-Inc-PE/assessment-tool
         path: assessment-tool-repo
 
     - name: Validate Input Folder
